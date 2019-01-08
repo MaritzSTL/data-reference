@@ -1,0 +1,33 @@
+{
+  "name": "data-reference",
+  "version": "1.0.0",
+  "description": "Living documentation of the data model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.1.0",
+    "express": "^4.16.2",
+    "graphql": "^14.0.0",
+    "graphql-tools": "^4.0.3",
+    "graphql-upload": "^8.0.2",
+    "log4js": "^3.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel-eslint": "^10.0.0",
+    "babel-jest": "^23.6.0",
+    "casual": "^1.5.19",
+    "eslint": "^5.4.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-html": "^4.0.5",
+    "eslint-plugin-prettier": "^2.6.2",
+    "jest": "^23.6.0",
+    "prettier": "^1.14.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

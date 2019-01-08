@@ -1,0 +1,1 @@
+* https://aseigneurin.github.io/2018/08/02/kafka-tutorial-4-avro-and-schema-registry.html
